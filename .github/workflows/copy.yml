@@ -4,7 +4,7 @@ on:
     inputs:
       fin:
         description: "File/Folder Name"
-        required: true
+        required: false 
 
 defaults:
   run:
